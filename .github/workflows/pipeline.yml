@@ -125,7 +125,7 @@ jobs:
       - name: Deploy 
         shell: bash
         run: |
-          echo "Deploy Pre"
+          echo "Deploy Pre - Teste"
 
   smoketest-Pre:
     runs-on: ubuntu-latest
